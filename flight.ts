@@ -6,6 +6,6 @@ function flight() {
 
 const magik = magikcraft.io;
 
-function flight() {
+function disfl() {
     magik.volare(10);
 }
