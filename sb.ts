@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function sb() {
-    magik.viburnum(1);
+function sb(Awesome) {
+    magik.viburnum();
 }
