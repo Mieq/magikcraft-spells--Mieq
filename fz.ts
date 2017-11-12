@@ -6,9 +6,9 @@ function fz() {
         var sudo = magik.getPlugin().getServer().getConsoleSender();
         magik.getPlugin().getServer().dispatchCommand(sudo, cmd);
     }
-    const flyingZombieCmd = 'sudo Pierro89 fly @p';
+    const flyingZombieCmd = 'pex user @p add essentials.fly';
 
-const activeMessageCmd = 'tellraw @p ["\u00A78(\u00A7a!\u00A78) \u00A77Good luck, Have Fun!"]';
+const activeMessageCmd = 'tellraw @p ["\u00A78(\u00A7a!\u00A78) \u00A77You just earned free fly perm!"]';
 
     run(flyingZombieCmd);
     run(activeMessageCmd);
