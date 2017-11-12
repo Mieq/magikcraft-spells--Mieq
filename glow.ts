@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function glow(name) {
-    magik.radiatum(${name});
+function glow(playername) {
+    magik.radiatum(playername);
 }
