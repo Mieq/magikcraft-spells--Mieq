@@ -6,9 +6,9 @@ function fz() {
         var sudo = magik.getPlugin().getServer().getConsoleSender();
         magik.getPlugin().getServer().dispatchCommand(sudo, cmd);
     }
-    const flyingZombieCmd = 'summon minecraft:lightning_bolt ~ ~-1 ~';
+    const flyingZombieCmd = 'tp ${name} -333 69 56';
 
-const activeMessageCmd = 'tellraw @p ["\u00A78(\u00A7a!\u00A78) \u00A77You summoned a thunder bolt\u00A7f..."]';
+const activeMessageCmd = 'tellraw @p ["\u00A78(\u00A7a!\u00A78) \u00A77Good luck, Have Fun!"]';
 
     run(flyingZombieCmd);
     run(activeMessageCmd);
