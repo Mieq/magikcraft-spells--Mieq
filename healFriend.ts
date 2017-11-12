@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function healFriend(Pierro89) {
-    magik.auxilium(Pierro89);
+function healFriend(BukkitPlayer) {
+    magik.auxilium(BukkitPlayer);
 }
