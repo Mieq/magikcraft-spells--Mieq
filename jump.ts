@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function newSpell(power = 50) {
+function jump(power = 50) {
     magik.exsultus(power)
 	
 }
