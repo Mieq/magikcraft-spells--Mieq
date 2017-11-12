@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function fb() {
-    magik.getPlugin();
+    magik.getPlugin(Test);
 }
