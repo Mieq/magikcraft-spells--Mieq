@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function Denyfly() {
-    magik.volare(10);
+    magik.volare(0);
 }
