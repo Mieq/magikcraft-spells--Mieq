@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function rocket() {
+function rocket(1) {
     const there = magik.aspecto();
     magik.stella(there);
 }
