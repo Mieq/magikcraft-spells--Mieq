@@ -1,4 +1,4 @@
 const magik = magikcraft.io;
-function prank(name) {
-    magik.iacta(name);
+function prank(playerName) {
+    magik.iacta(playerName);
 }
