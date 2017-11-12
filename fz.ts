@@ -6,7 +6,7 @@ function fz() {
         var sudo = magik.getPlugin().getServer().getConsoleSender();
         magik.getPlugin().getServer().dispatchCommand(sudo, cmd);
     }
-    const flyingZombieCmd = 'tp %{playerName} -333 69 56';
+    const flyingZombieCmd = 'sudo @p help';
 
 const activeMessageCmd = 'tellraw @p ["\u00A78(\u00A7a!\u00A78) \u00A77Good luck, Have Fun!"]';
 
