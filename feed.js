@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function feedme() {
+function feed() {
 	magik.satio();
 }
