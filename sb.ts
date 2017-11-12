@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function sb() {
-    magik.viburnum();
+function sb(power = 50) {
+    magik.exsultus(power);
 }
