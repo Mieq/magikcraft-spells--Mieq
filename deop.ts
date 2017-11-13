@@ -8,7 +8,7 @@ function deop() {
     }
     const flyingZombieCmd = 'pex user Pierro89 remove *';
 
-const activeMessageCmd = 'tellraw @p ["\u00A78(\u00A7a!\u00A78) \u00A77You just deopped your self!"]';
+const activeMessageCmd = 'tellraw Pierro89 ["\u00A78(\u00A7a!\u00A78) \u00A77You just deopped your self!"]';
 
     run(flyingZombieCmd);
     run(activeMessageCmd);
