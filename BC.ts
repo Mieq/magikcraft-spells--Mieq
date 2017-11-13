@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function Broad() {
+function BC() {
 
     function run(cmd) {
         var sudo = magik.getPlugin().getServer().getConsoleSender();
