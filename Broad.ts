@@ -1,15 +1,13 @@
 const magik = magikcraft.io;
 
-function deop() {
+function Broad() {
 
     function run(cmd) {
         var sudo = magik.getPlugin().getServer().getConsoleSender();
         magik.getPlugin().getServer().dispatchCommand(sudo, cmd);
     }
-    const flyingZombieCmd = 'pex user Pierro89 remove *';
+    const flyingZombieCmd = 'tellraw @a ["\u00A78(\u00A74ALERT) \u00A77"]';
 
-const activeMessageCmd = 'tellraw Pierro89 ["\u00A78(\u00A7a!\u00A78) \u00A77You deopped your self!"]';
 
     run(flyingZombieCmd);
-    run(activeMessageCmd);
 }
